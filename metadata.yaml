@@ -1,0 +1,36 @@
+_repo: On-a-lark-to-the-planets-a-sequel-to-the-wonderful-electric-elephant_69637
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Elrod, Winifred D.
+    gutenberg_agent_id: '55351'
+    url: http://www.gutenberg.org/2009/agents/55351
+creator:
+  author:
+    agent_name: Montgomery, Frances Trego
+    aliases:
+    - Wheeler, F. G.
+    - Montgomery, F. T. (Frances Trego)
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '8392'
+    url: http://www.gutenberg.org/2009/agents/8392
+description: ''
+gutenberg_issued: '2022-12-25'
+identifiers:
+  gutenberg: '69637'
+language: en
+pgterms:marc904: https://archive.org/details/onlarktoplanetss00mont
+pgterms:marc905: 20190912145828montgomery
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: The Saalfield Publishing Co.,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'On a lark to the planets: a sequel to "the wonderful electric elephant"'
+url: http://www.gutenberg.org/ebooks/69637
